@@ -13,7 +13,7 @@ My motivation in CS has always been driven by a desire to work on well-engineere
 
 I'm currently riding the AI hype, learning more about large-scale ML and Digital Twinning.
 
-I'm always interested in speaking, and feel free to reach me at llukewnl@gmail.com!
+I'm always interested in speaking, so feel free to reach me at llukewnl@gmail.com.
 
 Aside from engineering, I enjoy writing about film and game design, and pursue some acting/performance on the side.
 
