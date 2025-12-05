@@ -9,7 +9,7 @@ I'm a Computer Science graduate from Cornell. Being a long way from my hometown 
 
 My motivation in CS has always been driven by a desire to work on well-engineered solutions in the tech-industry, specifically in the realm of interactive experiences like games, edge-computing and tools for creatives. I'm currently riding the AI hype, learning more about large-scale ML and Digital Twinning.
 
-I'm always interested in speaking, and feel free to reach me at [[llukewnl@gmail.com]]!
+I'm always interested in speaking, and feel free to reach me at llukewnl@gmail.com!
 
 Aside from engineering, I enjoy writing about film and game design, and pursue some acting/performance on the side.
 
