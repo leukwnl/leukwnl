@@ -5,9 +5,11 @@ You're probably here for one of two things, you're either...
 
 Regardless, here's a little bit about myself.
 
-I'm a Computer Science graduate from Cornell. Being a long way from my hometown Malaysia, I currently live in Brooklyn, New York and I'm working on an early stage startup aiming to provide value through routing trips, and optimsing bookings for spendthrift travellers. 
+I'm a Computer Science graduate from Cornell. Being a long way from my hometown Malaysia, I currently live in Brooklyn, New York.
 
-In the past, I've worked on RAG Platforms at PETRONAS Digital, and have had extensive experience leading design and engineering through game creation at Cornell's Development in Games Project Team.
+I’m working on an early-stage startup that optimizes travel routing to help high-spending travelers get more value from their credit card points.
+
+In the past, I've worked on applied AI projects (RAG) at PETRONAS Digital, and have had extensive experience leading design and engineering in game creation at Cornell's Development in Games Project Team.
 
 My motivation in CS has always been driven by a desire to work on well-engineered solutions in the tech-industry, specifically in the realm of interactive experiences like games, edge-computing and tools for creatives. 
 
