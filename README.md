@@ -3,7 +3,7 @@ You're probably here for one of two things, you're either...
 - a Cornell student enrolled in CS 4152/5152 Advanced Game Architecture, and are looking for my haptics library to help juice up your game,
 - a recruiter looking into whether I'll be a great fit for your organization.
 
-Regardless, here's a little bit about myself.
+Here's a little bit about myself:
 
 I'm a Computer Science graduate from Cornell. Being a long way from my hometown Malaysia, I currently live in Brooklyn, New York.
 
